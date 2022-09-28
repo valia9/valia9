@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack Open course
+- 🔭 I’m currently working on Google UX Design Professional Certificate on Coursera
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Full Stack Open course
-- 🌱 I’m currently learning Reactjs 
+- 🔭 I’m currently working on Google UX Design Professional Certificate on Coursera
+- 🔭 I’m also currently working on the personal projects
+- 🌱 I’m currently learning TypeScript 
