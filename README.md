@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Google UX Design Professional Certificate on Coursera
 - 🔭 I’m also currently working on the personal projects
 - 🌱 I’m currently learning TypeScript 
+
+- 🔦 All the projects here are either my personal projects or the course assignments
